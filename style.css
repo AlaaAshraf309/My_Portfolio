@@ -151,7 +151,7 @@ body {
 
 .project-thumb { height: 160px; border-radius: 12px; background: linear-gradient(135deg, rgba(79,140,255,0.25), rgba(155,127,255,0.25)); border: 1px solid rgba(255,255,255,0.08); }
 .thumb-1 {
-  background-image: url("Product Overview (2).jpg");
+  background-image: url("MM\\Product Overview (2).jpg");
   background-size: cover;
   background-position: center;
 }
